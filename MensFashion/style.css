@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #E5E4E2;
+  font-family: sans-serif;
+}
+
+.h1{
+  position: sticky;
+  font-size: 15px;
+}
+
+.section1{
+  background: #e5e4e2; 
+}
